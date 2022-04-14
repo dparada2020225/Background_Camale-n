@@ -1,0 +1,20 @@
+body {
+  margin: 50px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 415px;
+  /* height: 150px; */
+  text-align: center;
+  margin:auto
+}
+#divCard{
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  
+}
+
